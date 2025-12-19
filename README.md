@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1379" height="714" alt="Screenshot 2025-12-17 155627" src="https://github.com/user-attachments/assets/6969478e-bf2c-4878-9e38-787d0aa7cb3d" />
+
+
+### Name: HARINARAYANAN A
+### Register Number: 25017317
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
